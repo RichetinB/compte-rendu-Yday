@@ -56,3 +56,13 @@
 - nombre de client possible : 524286
 - plages des clients possibles sur les réseaux suivants : 172.24.0.1 à 172.31.255.254
 
+
+
+  
+## Compte-rendu
+
+Date : 20/10/2022
+
+Durant cette céance j'ai commencé la réalisation d'un tp réseaux et j'ai également choisit mon projet que je souhaite réalisé qui celui du Projet Infra : Serveur CS:GO customisé.
+
+Durant la prochaine séance je vais poursuivre mon tp et si possible débuter mon projet.
