@@ -63,7 +63,7 @@ Description du projet : création d'un serveur cs:go
 
     • Pour l'administration du serveur ce trouve le fichier server.cfg il permet de gérer tel que son nom, mot de passe, système des download du serv, anti-chaet, tout les paramètres de base etc..
 
-    • Ci-joint les fichiers que j'ai cité ; [Serveur.bat](./fichier_utile/Serveur.bat), [Update.bat](./fichier_utile/Update.bat) et [server.cfg](./fichier_utile/server.cfg)
+ • Ci-joint les fichiers que j'ai cité : [Serveur.bat](./fichier_utile/Serveur.bat), [Update.bat](./fichier_utile/Update.bat) et [server.cfg](./fichier_utile/server.cfg)
 
 ### - Mettre en place un mode de jeu personnalisé (GunGame ou autre)
     • J'ai un mis en place un système de GunGame assez personnalisé, il contient système de niveau que l'on augmente a la suite d'élimination permettant le changement de l'arme, fournit avec un panel expliquant le jeu et donner accès à des commandes pour voir la liste des armes, le leaderboard, notre niveau actuel etc ..
@@ -73,7 +73,7 @@ Description du projet : création d'un serveur cs:go
 
 ### - Gérer les règles de démarrages (nombre de manche, argent, loadout…)
     • De nombreux fichier .cfg me permettent de modifier les règles et le fonctionnement du jeu néanmoins le principal est gamemode_casual.cfg, celui ci peut modifié la quasi totalité des réglages mais également les réglages des bots, et un système rendant la difficulté des bots à notre niveau en jeu.
-    • Ci-dessous le fichier : [gamemode_casual](./fichier_utile/gamemode_casual.cfg)
+ • Ci-dessous le fichier : [gamemode_casual](./fichier_utile/gamemode_casual.cfg)
 
 ### - Ajouter des assets personnalisés
     • J'ai réalisé l'ajout d'asset tel que de map custom, de skin ou encore de l'interface visuel
