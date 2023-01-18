@@ -1,0 +1,1 @@
+srcds -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_active +map cs_office +sv_setsteamaccount DFB9A916BDC837D554F2369CBFDCD55B
